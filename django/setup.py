@@ -32,7 +32,7 @@ setup(
     description='Simple toggle action addon for jquery',
     long_description=long_description,
     keywords='django jquery',
-    url='https://github.com/Aalto-LeTech/js-jquery-toggle/',
+    url='https://github.com/Honksu/js-jquery-toggle/',
     author='Jaakko Kantojärvi',
     author_email='jaakko@n-1.fi',
     license='MIT',
