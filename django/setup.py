@@ -65,7 +65,7 @@ setup(
     packages=find_packages(exclude=['contrib', 'docs', 'tests']),
     include_package_data = True,
     data_files=[
-        ('js_jquery_toggle/static/', ['../jquery-toggle.js']),
+        ('js_jquery_toggle/static', ['../jquery-toggle.js']),
     ],
     install_requires=[],
 )
